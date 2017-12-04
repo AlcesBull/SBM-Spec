@@ -25,7 +25,7 @@ tool head designed will be easily integrated within space-based manufacturing pl
 
 ####For Software Engineers
 
-Software engineers and electrical engineers may work simultaneously to design control capability for tool heads. The interface document describes a standard MOLEX 15-24-7143 connector that provides power and data to the tool head. This connector specification defines the extent of the electrical/mechanical interface of the tool head, allowing for a wide flexibility in control options.
+Software engineers and electrical engineers may work simultaneously to design control capability for tool heads. The interface document describes a standard MOLEX 71660-7040 connector that provides power and data to the tool head. This connector specification defines the extent of the electrical/mechanical interface of the tool head, allowing for a wide flexibility in control options.
 
 ####For Manufacturing Engineers
 
